@@ -15,7 +15,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: src(https://github.com/Toshi-007/techzerohomework/blob/310dad8b2341f974d24c7dc4c8a6f933fa342179/unlock2.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -124,7 +124,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 .lesson-icon {
